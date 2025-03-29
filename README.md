@@ -48,7 +48,7 @@ public class Main {
 ## Expected Output
 For the given example vectors:
 ```java
-Dot product: 12
+Dot product: 2
 ```
 
 ## Error Handling
